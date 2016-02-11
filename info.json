@@ -1,0 +1,15 @@
+{
+  "name": "BJU Main Template",
+  "components": {
+    "code": {
+      "name": "Custom HTML",
+      "fields": {
+        "code": {
+          "value": "",
+          "type": "textarea",
+          "label": "HTML"
+        }
+      }
+    }
+  }
+}
