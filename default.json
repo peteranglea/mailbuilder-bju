@@ -1,7 +1,34 @@
 {
 	"components": [
 		{
-			"name": "code"
+			"name": "header"
+		},
+		{
+			"name": "hero-image"
+		},
+		{
+			"name": "text-heading"
+		},
+		{
+			"name": "one-column-open"
+		},
+		{
+			"name": "heading1"
+		},
+		{
+			"name": "heading2"
+		},
+		{
+			"name": "line-break"
+		},
+		{
+			"name": "paragraph"
+		},
+		{
+			"name": "one-column-close"
+		},
+		{
+			"name": "footer"
 		}
 	]
 }
