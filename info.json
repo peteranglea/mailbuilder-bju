@@ -58,7 +58,14 @@
       }
     },
     "one-column-open": {
-      "name": "One Column Open"
+      "name": "One Column Open",
+      "fields": {
+        "bgcolor": {
+          "value": "",
+          "type": "text",
+          "label": "Background color"
+        }
+      }
     },
     "one-column-close": {
       "name": "One Column Close"
@@ -387,7 +394,14 @@
       "name": "Line Break"
     },
     "row-open": {
-      "name": "Row Open"
+      "name": "Row Open",
+      "fields": {
+        "bgcolor": {
+          "value": "",
+          "type": "text",
+          "label": "Background color"
+        }
+      }
     },
     "row-close": {
       "name": "Row Close"
