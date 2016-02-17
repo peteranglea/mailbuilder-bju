@@ -67,7 +67,7 @@
       "name": "Heading 1",
       "fields": {
         "text": {
-          "value": "Lorem ipsum dolor sit amet",
+          "value": "**Lorem ipsum dolor sit amet**",
           "type": "text",
           "label": "Text"
         },
@@ -102,7 +102,7 @@
       "name": "Heading 2",
       "fields": {
         "text": {
-          "value": "Lorem ipsum dolor sit amet",
+          "value": "**Lorem ipsum dolor sit amet**",
           "type": "text",
           "label": "Text"
         },
@@ -180,11 +180,6 @@
           "value": "http://placehold.it/600x250/222222/cccccc",
           "type": "text",
           "label": "Image"
-        },
-        "height": {
-          "value": "250px",
-          "type": "text",
-          "label": "V:rect height"
         },
         "bgcolor": {
           "value": "",
@@ -411,7 +406,7 @@
           "label": "Background color"
         },
         "class": {
-          "value": "",
+          "value": "mobile-center",
           "type": "text",
           "label": "Class"
         }

@@ -25,6 +25,12 @@
 			"name": "paragraph"
 		},
 		{
+			"name": "line-break"
+		},
+		{
+			"name": "button"
+		},
+		{
 			"name": "one-column-close"
 		},
 		{
