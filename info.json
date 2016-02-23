@@ -64,6 +64,11 @@
           "value": "",
           "type": "text",
           "label": "Background color"
+        },
+        "padding": {
+          "value": "",
+          "type": "text",
+          "label": "Cell padding"
         }
       }
     },
